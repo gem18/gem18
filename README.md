@@ -1,7 +1,7 @@
 
 <img src="https://i.imgur.com/g2z4W3R.jpg">
 
-## 👋 Hej Hej! Gem here.
+## 👋 Hej Hej! Gem here. 5th year Computer Engineering Student.
 
 <p>
  -🔭 I’m currently working on a device that can detect the fertility of chicken eggs using feature extraction. <br>
