@@ -1,7 +1,7 @@
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://imgur.com/g2z4W3R)
-view rawheader hosted with ❤ by GitHub
+(https://imgur.com/g2z4W3R)
+
 ### Hej hej! 👋
 
 <!--
