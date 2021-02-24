@@ -6,7 +6,7 @@
 <p>
  -🔭 I’m currently working on a device that can detect the fertility of chicken eggs using feature extraction. <br>
  -🌱 I’m currently learning Java, Python, HTML, CSS, Joomla, and Bootstrap. <br>
- -🤔 I’m looking for help with Jetson Nano <br>
+ -🤔 I’m looking for help with Image Processing <br>
  -💬 Ask me about Arduino and Jetson Nano  <br>
  -😄 Pronouns: She/Her <br>
  -⚡ Fun fact: Huge fan of Friends, Anime Figure Collector, Plays instruments (guitar, kalimba, drums) <br>
