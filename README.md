@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/g2z4W3R.jpg">
+<a = img src="https://i.imgur.com/g2z4W3R.jpg">
 
 ## 👋 Hej Hej! Gem here. 5th year Computer Engineering Student.
 
@@ -16,8 +16,8 @@
 
 ## 📫 How to reach me:
 <p align='center'>
-<a href="https://www.pngkey.com/png/full/2-28648_instagram-logo-creative-plants-png-transparent-background-transparent.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eragem-ignacio-b51ab0165/"><img height="100" src="https://i.imgur.com/mKnGLfu.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_eraxxi88/"><img height="500" src="https://i.imgur.com/twVr4Ih.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eragem-ignacio-b51ab0165/"><img height="500" src="https://i.imgur.com/Mm1189X.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
