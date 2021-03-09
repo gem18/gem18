@@ -16,8 +16,8 @@
 
 ## 📫 How to reach me:
 <p align='center'>
-<a href="https://www.instagram.com/_eraxxi88/"><img height="500" src="https://i.imgur.com/twVr4Ih.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eragem-ignacio-b51ab0165/"><img height="500" src="https://i.imgur.com/Mm1189X.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_eraxxi88/"><img height="100" src="https://i.imgur.com/twVr4Ih.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eragem-ignacio-b51ab0165/"><img height="100" src="https://i.imgur.com/Mm1189X.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
