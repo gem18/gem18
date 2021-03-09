@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me:
 <p align='center'>
-<a href="https://www.instagram.com/_eraxxi88/"><img height="100" src="https://i.imgur.com/fW4H1ZM.png"></a>&nbsp;&nbsp;
+<a href="https://www.pngkey.com/png/full/2-28648_instagram-logo-creative-plants-png-transparent-background-transparent.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eragem-ignacio-b51ab0165/"><img height="100" src="https://i.imgur.com/mKnGLfu.png"></a>&nbsp;&nbsp;
 </p>
 
