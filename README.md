@@ -1,5 +1,5 @@
 
-<a = img src="https://i.imgur.com/g2z4W3R.jpg">
+<img src="https://i.imgur.com/g2z4W3R.jpg">
 
 ## 👋 Hej Hej! Gem here. 5th year Computer Engineering Student.
 
